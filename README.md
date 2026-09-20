@@ -1,6 +1,8 @@
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nib1sin/Nib1sin/master/assets/header.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nib1sin/Nib1sin/master/assets/header-light.svg">
   <img src="https://raw.githubusercontent.com/Nib1sin/Nib1sin/master/assets/header.svg" alt="Pedro Jaime — Full Stack Developer" width="880"/>
-</p>
+</picture>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nib1sin&label=Profile+views&color=6DB33F&style=flat" alt="profile views"/>
@@ -42,6 +44,9 @@ TypeScript backend with full CRUD for a products resource.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nib1sin&theme=dark&hide_border=true" alt="streak stats"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nib1sin/Nib1sin/output/snake.svg" alt="contribution snake"/>
 </p>
 
 ## Contact
