@@ -1,21 +1,19 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="22"/>
-</p>
+<h1 align="center">Pedro Jaime</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-# Pedro Jaime — Full Stack Developer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nib1sin&label=Profile+views&color=6DB33F&style=flat" alt="profile views"/>
+</p>
 
 Building on both ends of the stack: Java/Spring Boot on the backend, and
 whatever frontend framework the project calls for — Angular, Vue, Svelte,
 Astro, Next.js.
+
+## Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,vue,angular,nextjs,svelte,astro,rust,docker" alt="skills"/>
+</p>
 
 ## Featured projects
 
@@ -38,6 +36,12 @@ local and deployable runs.
 
 **[crud_products_server](https://github.com/Nib1sin/crud_products_server)**
 TypeScript backend with full CRUD for a products resource.
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nib1sin&theme=dark&hide_border=true" alt="streak stats"/>
+</p>
 
 ## Contact
 
