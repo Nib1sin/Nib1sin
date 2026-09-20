@@ -1,5 +1,6 @@
-<h1 align="center">Pedro Jaime</h1>
-<h3 align="center">Full Stack Developer</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nib1sin/Nib1sin/main/assets/header.svg" alt="Pedro Jaime — Full Stack Developer" width="880"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nib1sin&label=Profile+views&color=6DB33F&style=flat" alt="profile views"/>
