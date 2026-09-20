@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nib1sin/Nib1sin/main/assets/header.svg" alt="Pedro Jaime — Full Stack Developer" width="880"/>
+  <img src="https://raw.githubusercontent.com/Nib1sin/Nib1sin/master/assets/header.svg" alt="Pedro Jaime — Full Stack Developer" width="880"/>
 </p>
 
 <p align="center">
